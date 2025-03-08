@@ -9,9 +9,9 @@ https://github.com/0x7556/webserver/releases
 
 ### 手机 浏览器访问如下
 
-Upload按钮 可上传手机照片、视频等文件上传到电脑
+Upload按钮 可上传手机照片、视频等文件上传到电脑<br>
 
-download按钮 可将电脑上的照片、视频或其它文件 下载到手机
+download按钮 可将电脑上的照片、视频或其它文件 下载到手机<br>
 ![image](http://www.18k.icu/img/web_iphone.png)
 
 ### 电脑 浏览器访问如下
